@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Piyush Diwan</h1>
 <h3 align="center">Coding Ideas Into Reality | Full-Stack Web Developer</h3>
 
-- 🔭 I’m currently working as a **Website Developer**
-- 🌱 I’m currently learning **Next.js, React Js & Node Js**
+- 🔭 I’m currently working as a **Software Developer**
+- 🌱 I’m working on **Next.js, React Js, PHP & Laravel** Techstack
 - 👯 I’m looking to collaborate on **open-source web projects**
-- 💬 Ask me about **React, Next.js, Node.js, Laravel**
+- 💬 Ask me about **React, Next.js, Laravel**
 - ⚡ Fun fact: I love turning coffee ☕ into code!
 
 ---
 
 ### 🚀 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-F7DF1E?style=flat-square&logo=typescrip&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ---
 
